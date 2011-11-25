@@ -1,5 +1,6 @@
 name = VIH Apps
 description = Access apps from VIH Interactive
+package = Apps
 
 version = 7.x-1.0-alpha1
 core = 7.x
