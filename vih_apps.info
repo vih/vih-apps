@@ -1,0 +1,9 @@
+name = VIH Apps
+description = Access apps from VIH Interactive
+
+version = 7.x-1.0-alpha1
+core = 7.x
+
+dependencies[] = apps
+
+files[] = vih_apps.module
